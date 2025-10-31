@@ -1,0 +1,7 @@
+##Part 2: Extracting Information from a Website
+
+In this section, we scrape data from a webpage containing popular programming languages and their average annual salaries.  
+The objective is to:
+1. Extract the data using BeautifulSoup.
+2. Store it in a structured format using pandas.
+3. Save the results to a CSV file.
