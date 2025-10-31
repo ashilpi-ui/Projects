@@ -1,0 +1,15 @@
+# Jobs Data API Analysis
+
+This project accesses a public Jobs API to analyze job postings data.  
+It determines the number of job openings for various technologies and programming languages across U.S. locations.
+
+## Key Steps
+- Access JSON data from a REST API.
+- Process data using Pandas.
+- Count job postings by technology and by location.
+- Export results to Excel files (`job-postings.xlsx` and `language-job-postings.xlsx`).
+
+## Files
+- `Jobs_Data_API_Analysis.ipynb` — Main Jupyter notebook
+- `job-postings.xlsx` — Job counts for key technologies
+- `language-job-postings.xlsx` — Job counts for programming languages and databases
